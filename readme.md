@@ -1,4 +1,3 @@
-
 ---
 title: "Servomotor"
 date: "2018-10-01T14:02:00.000Z"
