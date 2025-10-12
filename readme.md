@@ -3,7 +3,7 @@ title: "Servomotor"
 date: "2018-10-01T14:02:00.000Z"
 tags: 
   - "output"
-coverImage: "38_linearservomotor.jpg"
+coverImage: "38_linearservomotor.png"
 material_number: "38"
 material_type: "output"
 material_short_descr: "Seeed Studio Grove – Servo"
