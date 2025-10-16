@@ -34,8 +34,6 @@ Alle weiteren Hintergrundinformationen, sowie ein Beispielaufbau und alle notwen
 Je nach Motoraufbau kann der maximale Aktionsradius des Motors variieren. In vielen Fällen erreicht der Motor nicht die angegebene Gesamtrotation von 180°. Ist dies der Fall, kann es zu unerwartetem Verhalten (Zucken, Rattern, Spannungsabfall, Wärmeentwicklung…) führen, wenn der Motor in die Extrempositionen gedreht wird. Aus diesem Grund wird empfohlen, den Motor nur in einem Bereich von ca. 10° bis 170° zu bewegen.
 
 <!-- infolist -->
-
-<!-- infolists -->
  
 
 https://www.youtube.com/watch?v=wVxcmO2YuxA
