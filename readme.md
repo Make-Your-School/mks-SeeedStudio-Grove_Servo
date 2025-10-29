@@ -15,9 +15,6 @@ clone_url: "https://github.com/Make-Your-School/mks-SeeedStudio-Grove_Servo.git"
 repo_prefix: "mks"
 repo_part: "Grove_Servo"
 embedded_example_file: "examples/Grove_Servo_minimal/Grove_Servo_minimal.ino"
-title: 'Servomotor'
-status: 'active'
-difficulty: 'recommend'
 ---
 
 
